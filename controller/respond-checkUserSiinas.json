@@ -1,0 +1,20 @@
+{
+	"kode": "200",
+	"keterangan": "Valid",
+	"data": {
+		"kode": "A01",
+		"keterangan": "Request Sukses",
+        "alamatPabrik":"Alamat Pabrik",
+		"document": [{
+            "jnsDokumen":"01",
+			"nomor": "IUI20394",
+			"tanggal": "2020-06-23",
+			"insPenerbit": "",
+			"url": "http://google.com",
+		}],
+		"skvi": {
+			"nomor": "SKVI-12938493-38493",
+			"tanggal": "2020-05-28"
+		}
+	}
+}
